@@ -1,0 +1,22 @@
+Queue Details*****  Queue 1 *****
+
+Customer 1 : ryan
+Customer 2 : reeshan
+Customer 3 : apple
+Customer 4 : Empty
+Customer 5 : Empty
+Customer 6 : Empty*****  Queue 2 *****
+
+Customer 1 : banana
+Customer 2 : Empty
+Customer 3 : Empty
+Customer 4 : Empty
+Customer 5 : Empty
+Customer 6 : Empty*****  Queue 3 *****
+
+Customer 1 : Empty
+Customer 2 : Empty
+Customer 3 : Empty
+Customer 4 : Empty
+Customer 5 : Empty
+Customer 6 : Empty
